@@ -35,6 +35,7 @@ Convert between Celsius and Fahrenheit effortlessly with a clean, intuitive UI. 
 Run the project ▶️
 Open index.html in your browser
 
+
 Project Structure
 TEMPERATURE-CONVERTER-WEBSITE-/
 ├── index.html     📄 Main HTML file  
